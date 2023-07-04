@@ -1,0 +1,10 @@
+.env
+logs/
+*.out
+*.pyc
+# 忽略PyCharm IDE生成的文件和文件夹
+.idea/
+*.iml
+*.ipr
+*.iws
+
